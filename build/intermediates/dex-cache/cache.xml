@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-f0c55cf8c58b68157960dde3e3a1cf6dbd77173b.jar" />
+    </item>
+    <item
+        jar="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-68844728201c1737873c0a4860fcd8eb21c54ae0.jar" />
+    </item>
+    <item
+        jar="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-fff112f9a042adfdec2acc3bf6262d41cf9fd389.jar" />
+    </item>
+    <item
+        jar="C:\Users\swami\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-aad45807cd073aa08fc652f4b3997344078ae1ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-b14d329dcea6974d0874655a8987063d6f06bd2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\swami\AndroidStudioProjects\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-aeca5993a28b7b5c5ff146deca2f0f960a000b84.jar" />
+    </item>
+
+</items>
