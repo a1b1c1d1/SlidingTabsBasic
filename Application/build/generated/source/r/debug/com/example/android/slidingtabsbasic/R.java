@@ -133,31 +133,40 @@ containing a value of this type.
         public static final int margin_medium=0x7f040009;
         public static final int margin_small=0x7f04000a;
         public static final int margin_tiny=0x7f04000b;
+        public static final int padding_large=0x7f04000c;
+        public static final int padding_medium=0x7f04000d;
+        public static final int padding_small=0x7f04000e;
         public static final int vertical_page_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
-        public static final int tile=0x7f020001;
+        public static final int chiang_mai=0x7f020000;
+        public static final int himeji=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
+        public static final int mountain=0x7f020003;
+        public static final int mountain2=0x7f020004;
+        public static final int mountain3=0x7f020005;
+        public static final int tile=0x7f020006;
     }
     public static final class id {
-        public static final int buttonCreateAccount=0x7f090009;
-        public static final int buttonSignIN=0x7f090000;
-        public static final int buttonSignIn=0x7f09000e;
-        public static final int buttonSignUP=0x7f090001;
-        public static final int editTextConfirmPassword=0x7f090008;
-        public static final int editTextPassword=0x7f090007;
-        public static final int editTextPasswordToLogin=0x7f09000d;
-        public static final int editTextUserName=0x7f090006;
-        public static final int editTextUserNameToLogin=0x7f09000c;
-        public static final int item_subtitle=0x7f09000f;
-        public static final int item_title=0x7f090010;
-        public static final int log_fragment=0x7f090004;
-        public static final int loguot=0x7f090011;
-        public static final int sample_content_fragment=0x7f090005;
-        public static final int sample_main_layout=0x7f090002;
-        public static final int sample_output=0x7f090003;
-        public static final int sliding_tabs=0x7f09000a;
-        public static final int viewpager=0x7f09000b;
+        public static final int buttonCreateAccount=0x7f09000a;
+        public static final int buttonSignIN=0x7f090001;
+        public static final int buttonSignIn=0x7f09000f;
+        public static final int buttonSignUP=0x7f090002;
+        public static final int editTextConfirmPassword=0x7f090009;
+        public static final int editTextPassword=0x7f090008;
+        public static final int editTextPasswordToLogin=0x7f09000e;
+        public static final int editTextUserName=0x7f090007;
+        public static final int editTextUserNameToLogin=0x7f09000d;
+        public static final int item_subtitle=0x7f090010;
+        public static final int item_title=0x7f090011;
+        public static final int log_fragment=0x7f090005;
+        public static final int loguot=0x7f090012;
+        public static final int sample_content_fragment=0x7f090006;
+        public static final int sample_main_layout=0x7f090003;
+        public static final int sample_output=0x7f090004;
+        public static final int sliding_tabs=0x7f09000b;
+        public static final int view_pager=0x7f090000;
+        public static final int viewpager=0x7f09000c;
     }
     public static final class layout {
         public static final int activity_home=0x7f030000;
@@ -174,9 +183,7 @@ containing a value of this type.
         public static final int app_name=0x7f070000;
         public static final int intro_message=0x7f070001;
         public static final int loguot=0x7f070002;
-        public static final int sample_hide_log=0x7f070003;
-        public static final int sample_show_log=0x7f070004;
-        public static final int title_activity_sign_up=0x7f070005;
+        public static final int title_activity_sign_up=0x7f070003;
     }
     public static final class style {
         public static final int AppTheme=0x7f050002;

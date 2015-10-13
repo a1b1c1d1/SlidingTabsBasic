@@ -24,10 +24,17 @@
     <dimen name="margin_medium">16dp</dimen>
     <dimen name="margin_small">8dp</dimen>
     <dimen name="margin_tiny">4dp</dimen>
+    <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
     <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
     <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/base-strings.xml -->
     <eat-comment/>
-    <string name="app_name">DemoApp1</string>
+    <string name="app_name">MyFirstApp</string>
     <string name="intro_message">
         <![CDATA[
         
@@ -41,13 +48,7 @@
     <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="loguot">Logout</string>
-    <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/fragmentview_strings.xml -->
-    <eat-comment/>
-    <string name="sample_hide_log">Hide Log</string>
-    <string name="sample_show_log">Show Log</string>
-    <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/strings.xml -->
-    <eat-comment/>
-    <string name="title_activity_sign_up">DemoApp1</string>
+    <string name="title_activity_sign_up">MyFirstApp</string>
     <!-- From: file:/C:/Users/swami/AndroidStudioProjects/SlidingTabsBasic/Application/src/main/res/values/template-styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.Sample"/>

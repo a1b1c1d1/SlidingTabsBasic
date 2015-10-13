@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <string name="app_name">DemoApp1</string>
+    <string name="app_name">MyFirstApp</string>
     <string name="intro_message">
         <![CDATA[
         
